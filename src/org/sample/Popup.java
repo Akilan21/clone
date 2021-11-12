@@ -17,6 +17,7 @@ public class Popup {
 		Thread.sleep(3000);
 		Alert a = driver.switchTo().alert();
 		a.accept();
+		a.accept();
 		
 	}
 
